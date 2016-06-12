@@ -188,7 +188,7 @@ p {
   height: 255px;
 }
 .portfolio-item .hover-bg {
-  background: #008d8b;
+  background: #428bfa;
 }
 .bx-prev,
 .bx-next {
@@ -227,7 +227,7 @@ textarea.form-control {
 ! 14. Footer
 ========================================================== */
 #footer {
-  background: #da222b;
+  background: #428bda;
   color: #fff;
 }
 #footer p {
